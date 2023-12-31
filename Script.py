@@ -225,7 +225,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 🎛 Countries : <code>{countries}</code>
 
 🔞🤫🔞🤫🔞🤫🔞🤫🔞
-🔗 https://t.me/+wi0XGNUKhZNhOTE1
+🔗 https://t.me/+fyVl1ubus3NhOTNl
 
 Requested by : {message.from_user.mention}</b>"""
     
