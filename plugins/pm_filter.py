@@ -131,7 +131,7 @@ async def next_page(bot, query):
 
         btn.insert(0, 
             [
-                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+wi0XGNUKhZNhOTE1')
+                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+fyVl1ubus3NhOTNl')
             ]
         )
         btn.insert(0, [
@@ -142,7 +142,7 @@ async def next_page(bot, query):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+wi0XGNUKhZNhOTE1')
+                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+fyVl1ubus3NhOTNl')
             ]
         )
         btn.insert(0, [
@@ -356,7 +356,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
           [
-                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+wi0XGNUKhZNhOTE1')
+                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+fyVl1ubus3NhOTNl')
             ]
         )
         btn.insert(0, [
@@ -367,7 +367,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+wi0XGNUKhZNhOTE1')
+                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+fyVl1ubus3NhOTNl')
             ]
         )
         btn.insert(0, [
@@ -544,7 +544,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+wi0XGNUKhZNhOTE1')
+                InlineKeyboardButton('🔞 Video 🔞 ➢', url='https://t.me/+fyVl1ubus3NhOTNl')
             ]
         )
         btn.insert(0, [
